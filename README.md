@@ -18,6 +18,8 @@ $ unzip Vir.zip
 
 $ go run vlm.go -site URL GET/POST
 
-Demo: go run vlm.go -site https://chinhphu.vn/ GET
+# Demo: 
+
+go run vlm.go -site https://chinhphu.vn/ GET
 
 Method: GET/POST
